@@ -1,5 +1,5 @@
 ---
-title: "how to use markdown"
+title: "how-to-use-markdown"
 date: 2024-06-26
 ---
 
